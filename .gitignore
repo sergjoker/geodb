@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+
+#Visual studio generated files
+newProcessor.vcxproj.user
