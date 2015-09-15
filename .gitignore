@@ -28,4 +28,4 @@
 *.app
 
 #Visual studio generated files
-newProcessor.vcxproj.user
+*.vcxproj.user
