@@ -29,3 +29,6 @@
 
 #Visual studio generated files
 *.vcxproj.user
+*.sdf
+*.opensdf
+x64
